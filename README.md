@@ -23,7 +23,7 @@ After loading packages and compiling sources you can play the game by typing
  - `play level<number>` , choose a number between 0 and 6 instead of `<number>` field  
  
 Or you can let the AI play it for you if you type
- - `visualize level<number> False` choose a number as above
+ - `visualize level<number> True` choose a number as above
  
  When you play the game you have to press __w,a,s,d__ followed by __ENTER__ to move the block in the desire direction. Try to reach `*` and stay away from `-`. :warning:
 
